@@ -1,4 +1,4 @@
 mksv3
 =====
 
-Redirect to enki
+The project has been renamed to [Enki](https://github.com/hlamer/enki)
